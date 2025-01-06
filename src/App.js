@@ -7,7 +7,7 @@ import "./styles/styles.css";
 const App = () => {
   return (
     <div className="container">
-      <h1>Technical Test for Interns</h1>
+      <h1>Task</h1>
       <FormBuilder />
       <SearchableTable />
       <AnimatedBox />
